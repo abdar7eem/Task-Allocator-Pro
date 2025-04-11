@@ -42,7 +42,7 @@
 | ![](screenshots/signup.jpg) | **User Registration** — Multi-step form for registering new users with session-based validation. |
 | ![](screenshots/managerDashBoard.jpg) | **Manager Dashboard** — Interface for managing projects and assigning team leaders. |
 | ![](screenshots/managerAddProject.jpg) | **Add Project Form** — Clean layout to create projects with file upload support. |
-| ![](managerAllocate.jpg) | **Allocate Team Leader** — Form for assigning a project leader with preloaded project info. |
+| ![](screenshots/managerAllocate.jpg) | **Allocate Team Leader** — Form for assigning a project leader with preloaded project info. |
 | ![](screenshots/leaderTaskCreate.jpg) | **Task Creation** — Project Leaders can define and schedule tasks within their projects. |
 | ![](screenshots/memberTaskList.jpg) | **Accept Task** — Team members can review and accept/reject task assignments. |
 | ![](screenshots/teamMemberSearch.jpg) | **Search Tasks** — Advanced task search and filtering options for all roles. |
